@@ -36,5 +36,5 @@ x=60
 
 **Задачи по программированию**
 
-![Снимок экрана (9)](https://user-images.githubusercontent.com/78875572/216810400-1affb057-bcca-4e7e-9ff2-4c4f5452cd11
 
+![Снимок экрана (9)](https://user-images.githubusercontent.com/78875572/216810421-7e2cf245-8a16-4a93-94f6-9423e6b26fb8.png)
