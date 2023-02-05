@@ -35,6 +35,5 @@ x=60
 Ответ 60.
 
 **Задачи по программированию**
+![Снимок экрана (10)](https://user-images.githubusercontent.com/78875572/216812273-448e7ee4-dc34-44be-bf9d-79b88382030a.png)
 
-
-![Снимок экрана (9)](https://user-images.githubusercontent.com/78875572/216810421-7e2cf245-8a16-4a93-94f6-9423e6b26fb8.png)
