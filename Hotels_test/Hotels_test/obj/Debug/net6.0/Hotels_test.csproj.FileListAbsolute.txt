@@ -1,0 +1,15 @@
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\obj\Debug\net6.0\Hotels_test.csproj.AssemblyReference.cache
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\obj\Debug\net6.0\Hotels_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\obj\Debug\net6.0\Hotels_test.AssemblyInfoInputs.cache
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\obj\Debug\net6.0\Hotels_test.AssemblyInfo.cs
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\obj\Debug\net6.0\Hotels_test.csproj.CoreCompileInputs.cache
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\bin\Debug\net6.0\Hotels_test.exe
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\bin\Debug\net6.0\Hotels_test.deps.json
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\bin\Debug\net6.0\Hotels_test.runtimeconfig.json
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\bin\Debug\net6.0\Hotels_test.dll
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\bin\Debug\net6.0\Hotels_test.pdb
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\obj\Debug\net6.0\Hotels_test.dll
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\obj\Debug\net6.0\refint\Hotels_test.dll
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\obj\Debug\net6.0\Hotels_test.pdb
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\obj\Debug\net6.0\Hotels_test.genruntimeconfig.cache
+C:\Users\alry2\Desktop\ВолГТУ\Тесты для hh\Hotels_Test\Hotels_test\Hotels_test\obj\Debug\net6.0\ref\Hotels_test.dll
